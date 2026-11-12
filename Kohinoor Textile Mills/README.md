@@ -1,14 +1,20 @@
-## KTML — Industrial Engineering Internship
+# Kohinoor Textile Mills — Industrial Engineering Internship
 
-**6-Week Internship | Textile Manufacturing**
+**Six-week internship | Textile manufacturing and made-ups operations**
 
-During my internship at **KTML**, I gained practical exposure to textile manufacturing and Industrial Engineering practices across multiple production sections. I studied the overall textile process flow and worked with **Made-ups, Folding, Cutting, Stitching, Embroidery, Quilting, and Multi-Needle Embroidery** operations.
+Practical exposure to cutting, stitching, folding, embroidery, quilting, and multi-needle embroidery, with a focus on workflow and production documentation.
 
-### Key Work & Learning
+## Work and learning
 
-* Studied **textile production processes, machine operations, documentation, and staff hierarchy**.
-* Observed and analyzed workflows in **cutting and stitching sections**.
-* Studied **production documentation and process flow** in the Stitching Unit 1.
-* Worked on implementing a **paperless documentation approach** by shifting records to digital form.
-* Conducted **SAM (Standard Allowed Minute) studies** to analyze operation times and categorize production activities.
-* Gained practical understanding of **process improvement, work measurement, documentation, and manufacturing operations**.
+- Reviewed process flow and records in Stitching Unit 1.
+- Conducted Standard Allowed Minute (SAM) studies to examine operation times.
+- Studied machine operations, production documentation, and organizational responsibilities.
+- Worked on moving paper-based records toward digital documentation.
+
+## Evidence
+
+[Internship report](Report%201...pdf) · [Internship certificate](Cert%20KTML%20%281%29.jpeg)
+
+**Skills:** work measurement · SAM · process mapping · manufacturing documentation
+
+[← Professional experience](../README.md)
